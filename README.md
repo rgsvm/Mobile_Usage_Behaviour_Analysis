@@ -1,5 +1,12 @@
 # Mobile_Usage_Behaviour_Analysis
 
+# Models:
+1. LogisticRegression
+2. RandomForestClassifier
+3. SVM
+4. KNN
+
+# Dataset Description:
 Analyzing Mobile Usage Patterns and User Behavior Classification Across Devices
 
 About this Dataset
